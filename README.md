@@ -8,6 +8,7 @@ An repository for keeping track of the problems solved in Arsh's #CrackYourInter
 | ------- |
 | [0001-two-sum](https://github.com/Manojkumar-05/CrackYourInternship/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Manojkumar-05/CrackYourInternship/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0074-search-a-2d-matrix](https://github.com/Manojkumar-05/CrackYourInternship/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/Manojkumar-05/CrackYourInternship/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Manojkumar-05/CrackYourInternship/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Manojkumar-05/CrackYourInternship/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -48,9 +49,14 @@ An repository for keeping track of the problems solved in Arsh's #CrackYourInter
 ## Binary Search
 |  |
 | ------- |
+| [0074-search-a-2d-matrix](https://github.com/Manojkumar-05/CrackYourInternship/tree/master/0074-search-a-2d-matrix) |
 | [0287-find-the-duplicate-number](https://github.com/Manojkumar-05/CrackYourInternship/tree/master/0287-find-the-duplicate-number) |
 ## Bit Manipulation
 |  |
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/Manojkumar-05/CrackYourInternship/tree/master/0287-find-the-duplicate-number) |
+## Matrix
+|  |
+| ------- |
+| [0074-search-a-2d-matrix](https://github.com/Manojkumar-05/CrackYourInternship/tree/master/0074-search-a-2d-matrix) |
 <!---LeetCode Topics End-->
