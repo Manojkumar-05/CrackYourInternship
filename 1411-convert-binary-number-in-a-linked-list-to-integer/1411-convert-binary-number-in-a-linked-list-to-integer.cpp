@@ -12,12 +12,12 @@ class Solution {
 public:
     ListNode* rev(ListNode* head){
         if(head == NULL || head->next == NULL) return head;
-        ListNode *temp = head, *prev = nullptr, *next = head->next;
+        ListNode *temp = head, *prev = nullptr, *next;
         while(temp){
+            next = temp->next;
             temp->next = prev;
             prev = temp;
             temp = next;
-            if(next) next = next->next;
         }
         return prev;
     }
