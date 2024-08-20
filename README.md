@@ -59,4 +59,12 @@ An repository for keeping track of the problems solved in Arsh's #CrackYourInter
 |  |
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/Manojkumar-05/CrackYourInternship/tree/master/0074-search-a-2d-matrix) |
+## Math
+|  |
+| ------- |
+| [0897-prime-palindrome](https://github.com/Manojkumar-05/CrackYourInternship/tree/master/0897-prime-palindrome) |
+## Number Theory
+|  |
+| ------- |
+| [0897-prime-palindrome](https://github.com/Manojkumar-05/CrackYourInternship/tree/master/0897-prime-palindrome) |
 <!---LeetCode Topics End-->
