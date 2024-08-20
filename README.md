@@ -67,6 +67,7 @@ An repository for keeping track of the problems solved in Arsh's #CrackYourInter
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Manojkumar-05/CrackYourInternship/tree/master/0002-add-two-numbers) |
 | [0897-prime-palindrome](https://github.com/Manojkumar-05/CrackYourInternship/tree/master/0897-prime-palindrome) |
 ## Number Theory
 |  |
@@ -76,4 +77,12 @@ An repository for keeping track of the problems solved in Arsh's #CrackYourInter
 |  |
 | ------- |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Manojkumar-05/CrackYourInternship/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+## Linked List
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/Manojkumar-05/CrackYourInternship/tree/master/0002-add-two-numbers) |
+## Recursion
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/Manojkumar-05/CrackYourInternship/tree/master/0002-add-two-numbers) |
 <!---LeetCode Topics End-->
