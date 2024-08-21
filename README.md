@@ -24,6 +24,7 @@ An repository for keeping track of the problems solved in Arsh's #CrackYourInter
 | [0075-sort-colors](https://github.com/Manojkumar-05/CrackYourInternship/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Manojkumar-05/CrackYourInternship/tree/master/0088-merge-sorted-array) |
 | [0141-linked-list-cycle](https://github.com/Manojkumar-05/CrackYourInternship/tree/master/0141-linked-list-cycle) |
+| [0234-palindrome-linked-list](https://github.com/Manojkumar-05/CrackYourInternship/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/Manojkumar-05/CrackYourInternship/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/Manojkumar-05/CrackYourInternship/tree/master/0287-find-the-duplicate-number) |
 | [0908-middle-of-the-linked-list](https://github.com/Manojkumar-05/CrackYourInternship/tree/master/0908-middle-of-the-linked-list) |
@@ -90,6 +91,7 @@ An repository for keeping track of the problems solved in Arsh's #CrackYourInter
 | [0141-linked-list-cycle](https://github.com/Manojkumar-05/CrackYourInternship/tree/master/0141-linked-list-cycle) |
 | [0203-remove-linked-list-elements](https://github.com/Manojkumar-05/CrackYourInternship/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/Manojkumar-05/CrackYourInternship/tree/master/0206-reverse-linked-list) |
+| [0234-palindrome-linked-list](https://github.com/Manojkumar-05/CrackYourInternship/tree/master/0234-palindrome-linked-list) |
 | [0908-middle-of-the-linked-list](https://github.com/Manojkumar-05/CrackYourInternship/tree/master/0908-middle-of-the-linked-list) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Manojkumar-05/CrackYourInternship/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 ## Recursion
@@ -99,4 +101,9 @@ An repository for keeping track of the problems solved in Arsh's #CrackYourInter
 | [0021-merge-two-sorted-lists](https://github.com/Manojkumar-05/CrackYourInternship/tree/master/0021-merge-two-sorted-lists) |
 | [0203-remove-linked-list-elements](https://github.com/Manojkumar-05/CrackYourInternship/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/Manojkumar-05/CrackYourInternship/tree/master/0206-reverse-linked-list) |
+| [0234-palindrome-linked-list](https://github.com/Manojkumar-05/CrackYourInternship/tree/master/0234-palindrome-linked-list) |
+## Stack
+|  |
+| ------- |
+| [0234-palindrome-linked-list](https://github.com/Manojkumar-05/CrackYourInternship/tree/master/0234-palindrome-linked-list) |
 <!---LeetCode Topics End-->
