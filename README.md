@@ -25,6 +25,7 @@ An repository for keeping track of the problems solved in Arsh's #CrackYourInter
 | [0075-sort-colors](https://github.com/Manojkumar-05/CrackYourInternship/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Manojkumar-05/CrackYourInternship/tree/master/0088-merge-sorted-array) |
 | [0141-linked-list-cycle](https://github.com/Manojkumar-05/CrackYourInternship/tree/master/0141-linked-list-cycle) |
+| [0202-happy-number](https://github.com/Manojkumar-05/CrackYourInternship/tree/master/0202-happy-number) |
 | [0234-palindrome-linked-list](https://github.com/Manojkumar-05/CrackYourInternship/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/Manojkumar-05/CrackYourInternship/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/Manojkumar-05/CrackYourInternship/tree/master/0287-find-the-duplicate-number) |
@@ -40,6 +41,7 @@ An repository for keeping track of the problems solved in Arsh's #CrackYourInter
 | [0001-two-sum](https://github.com/Manojkumar-05/CrackYourInternship/tree/master/0001-two-sum) |
 | [0141-linked-list-cycle](https://github.com/Manojkumar-05/CrackYourInternship/tree/master/0141-linked-list-cycle) |
 | [0169-majority-element](https://github.com/Manojkumar-05/CrackYourInternship/tree/master/0169-majority-element) |
+| [0202-happy-number](https://github.com/Manojkumar-05/CrackYourInternship/tree/master/0202-happy-number) |
 | [0451-sort-characters-by-frequency](https://github.com/Manojkumar-05/CrackYourInternship/tree/master/0451-sort-characters-by-frequency) |
 ## Sorting
 |  |
@@ -78,6 +80,7 @@ An repository for keeping track of the problems solved in Arsh's #CrackYourInter
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Manojkumar-05/CrackYourInternship/tree/master/0002-add-two-numbers) |
+| [0202-happy-number](https://github.com/Manojkumar-05/CrackYourInternship/tree/master/0202-happy-number) |
 | [0204-count-primes](https://github.com/Manojkumar-05/CrackYourInternship/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/Manojkumar-05/CrackYourInternship/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/Manojkumar-05/CrackYourInternship/tree/master/0258-add-digits) |
