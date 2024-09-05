@@ -77,6 +77,7 @@ An repository for keeping track of the problems solved in Arsh's #CrackYourInter
 | ------- |
 | [0002-add-two-numbers](https://github.com/Manojkumar-05/CrackYourInternship/tree/master/0002-add-two-numbers) |
 | [0231-power-of-two](https://github.com/Manojkumar-05/CrackYourInternship/tree/master/0231-power-of-two) |
+| [0326-power-of-three](https://github.com/Manojkumar-05/CrackYourInternship/tree/master/0326-power-of-three) |
 | [0897-prime-palindrome](https://github.com/Manojkumar-05/CrackYourInternship/tree/master/0897-prime-palindrome) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Manojkumar-05/CrackYourInternship/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 ## Number Theory
@@ -108,6 +109,7 @@ An repository for keeping track of the problems solved in Arsh's #CrackYourInter
 | [0206-reverse-linked-list](https://github.com/Manojkumar-05/CrackYourInternship/tree/master/0206-reverse-linked-list) |
 | [0231-power-of-two](https://github.com/Manojkumar-05/CrackYourInternship/tree/master/0231-power-of-two) |
 | [0234-palindrome-linked-list](https://github.com/Manojkumar-05/CrackYourInternship/tree/master/0234-palindrome-linked-list) |
+| [0326-power-of-three](https://github.com/Manojkumar-05/CrackYourInternship/tree/master/0326-power-of-three) |
 ## Stack
 |  |
 | ------- |
