@@ -80,6 +80,7 @@ An repository for keeping track of the problems solved in Arsh's #CrackYourInter
 | [0002-add-two-numbers](https://github.com/Manojkumar-05/CrackYourInternship/tree/master/0002-add-two-numbers) |
 | [0204-count-primes](https://github.com/Manojkumar-05/CrackYourInternship/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/Manojkumar-05/CrackYourInternship/tree/master/0231-power-of-two) |
+| [0258-add-digits](https://github.com/Manojkumar-05/CrackYourInternship/tree/master/0258-add-digits) |
 | [0326-power-of-three](https://github.com/Manojkumar-05/CrackYourInternship/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/Manojkumar-05/CrackYourInternship/tree/master/0342-power-of-four) |
 | [0897-prime-palindrome](https://github.com/Manojkumar-05/CrackYourInternship/tree/master/0897-prime-palindrome) |
@@ -88,6 +89,7 @@ An repository for keeping track of the problems solved in Arsh's #CrackYourInter
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/Manojkumar-05/CrackYourInternship/tree/master/0204-count-primes) |
+| [0258-add-digits](https://github.com/Manojkumar-05/CrackYourInternship/tree/master/0258-add-digits) |
 | [0897-prime-palindrome](https://github.com/Manojkumar-05/CrackYourInternship/tree/master/0897-prime-palindrome) |
 ## Greedy
 |  |
@@ -136,4 +138,8 @@ An repository for keeping track of the problems solved in Arsh's #CrackYourInter
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/Manojkumar-05/CrackYourInternship/tree/master/0204-count-primes) |
+## Simulation
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/Manojkumar-05/CrackYourInternship/tree/master/0258-add-digits) |
 <!---LeetCode Topics End-->
