@@ -164,4 +164,5 @@ An repository for keeping track of the problems solved in Arsh's #CrackYourInter
 | ------- |
 | [0584-find-customer-referee](https://github.com/Manojkumar-05/CrackYourInternship/tree/master/0584-find-customer-referee) |
 | [0595-big-countries](https://github.com/Manojkumar-05/CrackYourInternship/tree/master/0595-big-countries) |
+| [1258-article-views-i](https://github.com/Manojkumar-05/CrackYourInternship/tree/master/1258-article-views-i) |
 <!---LeetCode Topics End-->
