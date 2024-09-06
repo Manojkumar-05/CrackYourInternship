@@ -18,6 +18,7 @@ An repository for keeping track of the problems solved in Arsh's #CrackYourInter
 | [0204-count-primes](https://github.com/Manojkumar-05/CrackYourInternship/tree/master/0204-count-primes) |
 | [0283-move-zeroes](https://github.com/Manojkumar-05/CrackYourInternship/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/Manojkumar-05/CrackYourInternship/tree/master/0287-find-the-duplicate-number) |
+| [0978-valid-mountain-array](https://github.com/Manojkumar-05/CrackYourInternship/tree/master/0978-valid-mountain-array) |
 | [1137-height-checker](https://github.com/Manojkumar-05/CrackYourInternship/tree/master/1137-height-checker) |
 | [3206-find-common-elements-between-two-arrays](https://github.com/Manojkumar-05/CrackYourInternship/tree/master/3206-find-common-elements-between-two-arrays) |
 | [3421-count-pairs-that-form-a-complete-day-i](https://github.com/Manojkumar-05/CrackYourInternship/tree/master/3421-count-pairs-that-form-a-complete-day-i) |
