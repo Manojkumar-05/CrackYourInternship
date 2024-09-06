@@ -18,6 +18,7 @@ An repository for keeping track of the problems solved in Arsh's #CrackYourInter
 | [0204-count-primes](https://github.com/Manojkumar-05/CrackYourInternship/tree/master/0204-count-primes) |
 | [0283-move-zeroes](https://github.com/Manojkumar-05/CrackYourInternship/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/Manojkumar-05/CrackYourInternship/tree/master/0287-find-the-duplicate-number) |
+| [3515-find-if-digit-game-can-be-won](https://github.com/Manojkumar-05/CrackYourInternship/tree/master/3515-find-if-digit-game-can-be-won) |
 ## Two Pointers
 |  |
 | ------- |
@@ -88,6 +89,7 @@ An repository for keeping track of the problems solved in Arsh's #CrackYourInter
 | [0342-power-of-four](https://github.com/Manojkumar-05/CrackYourInternship/tree/master/0342-power-of-four) |
 | [0897-prime-palindrome](https://github.com/Manojkumar-05/CrackYourInternship/tree/master/0897-prime-palindrome) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Manojkumar-05/CrackYourInternship/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
+| [3515-find-if-digit-game-can-be-won](https://github.com/Manojkumar-05/CrackYourInternship/tree/master/3515-find-if-digit-game-can-be-won) |
 ## Number Theory
 |  |
 | ------- |
