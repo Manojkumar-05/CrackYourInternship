@@ -18,6 +18,7 @@ An repository for keeping track of the problems solved in Arsh's #CrackYourInter
 | [0204-count-primes](https://github.com/Manojkumar-05/CrackYourInternship/tree/master/0204-count-primes) |
 | [0283-move-zeroes](https://github.com/Manojkumar-05/CrackYourInternship/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/Manojkumar-05/CrackYourInternship/tree/master/0287-find-the-duplicate-number) |
+| [1137-height-checker](https://github.com/Manojkumar-05/CrackYourInternship/tree/master/1137-height-checker) |
 | [3206-find-common-elements-between-two-arrays](https://github.com/Manojkumar-05/CrackYourInternship/tree/master/3206-find-common-elements-between-two-arrays) |
 | [3421-count-pairs-that-form-a-complete-day-i](https://github.com/Manojkumar-05/CrackYourInternship/tree/master/3421-count-pairs-that-form-a-complete-day-i) |
 | [3515-find-if-digit-game-can-be-won](https://github.com/Manojkumar-05/CrackYourInternship/tree/master/3515-find-if-digit-game-can-be-won) |
@@ -55,6 +56,7 @@ An repository for keeping track of the problems solved in Arsh's #CrackYourInter
 | [0088-merge-sorted-array](https://github.com/Manojkumar-05/CrackYourInternship/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/Manojkumar-05/CrackYourInternship/tree/master/0169-majority-element) |
 | [0451-sort-characters-by-frequency](https://github.com/Manojkumar-05/CrackYourInternship/tree/master/0451-sort-characters-by-frequency) |
+| [1137-height-checker](https://github.com/Manojkumar-05/CrackYourInternship/tree/master/1137-height-checker) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -152,4 +154,8 @@ An repository for keeping track of the problems solved in Arsh's #CrackYourInter
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/Manojkumar-05/CrackYourInternship/tree/master/0258-add-digits) |
+## Counting Sort
+|  |
+| ------- |
+| [1137-height-checker](https://github.com/Manojkumar-05/CrackYourInternship/tree/master/1137-height-checker) |
 <!---LeetCode Topics End-->
